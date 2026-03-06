@@ -277,5 +277,3 @@ That’s a **very strong portfolio piece**.
 It reads like **an internal engineering tool**, not a tutorial project.
 
 ---
-
-If you'd like, I can also show you **one small GitHub improvement that will make recruiters find this project way more easily when they search GitHub for data engineering projects.**
